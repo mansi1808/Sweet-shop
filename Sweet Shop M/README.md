@@ -73,4 +73,3 @@ A full-stack web application for managing a sweet shop, featuring an admin dashb
 
 -   **401 Unauthorized Errors**: Ensure only ONE instance of the backend is running. If issues persist, kill all Java processes (`taskkill /F /IM java.exe`) and restart the backend.
 -   **Port Conflicts**: The frontend runs on port 5000. Ensure this port is free.
-"# Sweet-shop-" 
